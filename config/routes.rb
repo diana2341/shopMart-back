@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
 
+  resources :credit_cards
   resources :users, only: [:create]
   post '/login', to: 'auth#login'
   get 'auto_login', to: 'auth#auto_login'
