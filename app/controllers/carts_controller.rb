@@ -12,7 +12,7 @@ class CartsController < ApplicationController
         cart.destroy
     end
     def create
-        cart=Cart.new(cart_params)
+        cart=Cart.create(cart_params)
         if cart.save
             render json:cart
         else
@@ -27,6 +27,6 @@ class CartsController < ApplicationController
     end
     private
     def cart_params
-        params.require.permit(:products_id,:users_id)
+        params.require.permit(:product_id,:user_id)
     end
 end

@@ -4,19 +4,24 @@ class ProductsController < ApplicationController
         render json:products
     end
     def show
-        product=product.find(params[:id])
+        product=Product.find(params[:id])
         render json:product
     end
     def create
-        product=product.new(product_params)
+        product=Product.create(product_params)
+        if product.save
+            render json:product
+        else
+            render{error:'error:unable to create product'}
+        end
     end
     def update
-        product=product.find(params[:id])
+        product=Product.find(params[:id])
         product.update(product_params)
         render json:product
     end
     def destroy
-        product=product.find(params[:id])
+        product=Product.find(params[:id])
         product.destroy
     end
     private
