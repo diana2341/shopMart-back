@@ -11,7 +11,10 @@ class UsersController < ApplicationController
         end
     end
 
-
+def index
+user = User.all 
+render json: {user:user}
+end
 
 private
 
