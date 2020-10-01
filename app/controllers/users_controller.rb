@@ -1,4 +1,5 @@
 class UsersController < ApplicationController
+    skip_before_action :require_login, only: [:create,:index, :show,:update, :showVisit, :followees, :followers]
 
     def create
         user = User.create(user_params)

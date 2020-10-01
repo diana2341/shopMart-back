@@ -1,16 +1,19 @@
 class ApplicationController < ActionController::API
+    before_action :require_login
 
     def encode_token(payload)
         JWT.encode(payload, 'my_secret')
     end
 
-    def session_user
-        decoded_hash = decoded_token 
-        if !decoded_hash.empty?
+    def current_user
+        decoded_hash = decoded_token
+        if !decoded_hash.blank? 
+            puts decoded_hash.class
             user_id = decoded_hash[0]['user_id']
-            @user = User.find_by(id:user_id)
+            user = User.find_by(id: user_id)
+            user
         else
-            nil
+            nil 
         end
     end
 
@@ -29,6 +32,12 @@ class ApplicationController < ActionController::API
         end
     end
     
-
+    def logged_in?
+        !!current_user
+        end
+        
+        def require_login
+            render json: {message: 'Please Login'}, status: :unauthorized unless logged_in?
+        end
 
 end

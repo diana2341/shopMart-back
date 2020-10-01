@@ -49,7 +49,7 @@ ActiveRecord::Schema.define(version: 2020_09_22_112214) do
     t.string "first_name"
     t.string "last_name"
     t.string "email"
-    t.string "password"
+    t.string "password_digest"
     t.string "street"
     t.string "state"
     t.string "country"
