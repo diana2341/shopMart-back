@@ -1,4 +1,6 @@
 class CartsController < ApplicationController
+    skip_before_action :require_login
+
     def index
         carts=Cart.all
         render json:carts
