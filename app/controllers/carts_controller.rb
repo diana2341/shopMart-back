@@ -18,7 +18,7 @@ class CartsController < ApplicationController
         if cart.save
             render json:cart
         else
-            render{error:'error:unable to create animal'}
+            render{error:'error:unable to create cart'}
         end
     end
     def update
@@ -29,6 +29,6 @@ class CartsController < ApplicationController
     end
     private
     def cart_params
-        params.require.permit(:product_id,:user_id)
+        params.permit(:product_id,:user_id)
     end
 end

@@ -1,21 +1,26 @@
 class OrderItemsController < ApplicationController
     skip_before_action :require_login
+    def index
+        orders = OrderItem.all
+        render json: orders
+    end
+    
 
     def create 
         order = Order.find(order_item_params[:order_id])
         order_items = order.order_items
-
         found_item = order_items.detect do |item|
             order_item_params[:product_id]==item.product_id
     end
+    # byebug
 
     if found_item
         found_item.quantity += order_item_params[:quantity].to_i
-        found_item.item_price = found_item.quantity *found_item.product.price_in_cents
+        found_item.item_price = found_item.quantity * found_item.product.price
         found_item.save
     else 
         orderItem = OrderItem.create(order_item_params)
-        orderItem.item_price = orderItem.quantity * orderItem.product.price_in_cents
+        orderItem.item_price = orderItem.quantity * orderItem.product.price
         orderItem.save
 
     end 
@@ -50,6 +55,6 @@ class OrderItemsController < ApplicationController
     private
 
    def order_item_params
-    params.permit(:product_id, :order_id, :quantity)
+    params.permit(:product_id, :order_id, :quantity, :item_price)
    end
 end
