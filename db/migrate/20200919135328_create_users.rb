@@ -9,6 +9,7 @@ class CreateUsers < ActiveRecord::Migration[6.0]
       t.string :state
       t.string :country
       t.integer :zip_code
+      t.integer :current_order, :null => true
 
       t.timestamps
     end

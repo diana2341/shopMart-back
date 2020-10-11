@@ -572,3 +572,5 @@ cart3=Cart.create(user:user3,product:product3)
 cart4=Cart.create(user:user4,product:product4)
 cart5=Cart.create(user:user5,product:product5)
 
+
+
