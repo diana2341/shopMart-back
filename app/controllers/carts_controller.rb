@@ -16,7 +16,7 @@ class CartsController < ApplicationController
         if cart.save
             render json:cart
         else
-            render{error:'error:unable to create animal'}
+            render{error:'error:unable to create cart'}
         end
     end
     def update

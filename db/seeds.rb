@@ -433,6 +433,7 @@ description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin frin
 categories:'girls',
 kind:'toys'
 )
+# shoesss  for girls
 # --------------------------------
 
 product15=Product.create(price:10,
@@ -500,7 +501,7 @@ size:'l',
 images:'https://slimages.macys.com/is/image/MCY/products/8/optimized/17204428_fpx.tif?op_sharpen=1&wid=1230&hei=1500&fit=fit,1&$filterxlrg$',
 description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
 categories:'boys',
-kind:'sportswear'
+kind:'jackets'
 )
 
 product17=Product.create(price:30,
