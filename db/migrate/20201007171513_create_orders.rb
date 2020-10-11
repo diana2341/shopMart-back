@@ -4,7 +4,7 @@ class CreateOrders < ActiveRecord::Migration[6.0]
       t.string :status
       t.integer :user_id
       t.integer :total_price, default: 0
-      t.integer :total_qty, default:0
+      t.integer :total_qty, default:1
       t.timestamps
     end
   end

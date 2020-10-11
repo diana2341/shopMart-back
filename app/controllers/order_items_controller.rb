@@ -45,11 +45,17 @@ class OrderItemsController < ApplicationController
         order = Order.find(current_user.current_order)
         
         total = 0 
+        total_quantity = 0 
+
         order.order_items.each{|item| total+= item.item_price}
         order.total_price = total
+
+        order.order_items.each{|item| total_quantity += item.quantity}
+        order.total_qty = total_quantity
+
         order.save 
 
-        render json:current_user, include: '**'
+        render json:current_user
     end 
 
     private

@@ -29,7 +29,7 @@ class OrdersController < ApplicationController
         order_items = order.order_items
 
         total = 0 
-        total_quantity = 0
+        total_quantity = 1
         order.order_items.each{|item| total += item.item_price}
         order.total_price = total
 
