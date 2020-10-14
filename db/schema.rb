@@ -36,6 +36,7 @@ ActiveRecord::Schema.define(version: 2020_10_07_171653) do
     t.integer "quantity", default: 1
     t.integer "product_id"
     t.integer "order_id"
+    t.integer "user_id"
     t.integer "item_price", default: 0
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
@@ -45,7 +46,7 @@ ActiveRecord::Schema.define(version: 2020_10_07_171653) do
     t.string "status"
     t.integer "user_id"
     t.integer "total_price", default: 0
-    t.integer "total_qty", default: 1
+    t.integer "total_qty", default: 0
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
