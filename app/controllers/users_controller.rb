@@ -11,7 +11,15 @@ class UsersController < ApplicationController
              render json: {errors: user.errors.full_messages}, status: :not_acceptable
         end
     end
-
+    def show
+        user=User.find(params[:id])
+        render json:user
+    end
+    def update
+        user=User.find(params[:id])
+        user.update(user_params)
+        render json:user
+    end
 def index
 user = User.all 
 render json: {user:user}
