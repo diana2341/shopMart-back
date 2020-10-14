@@ -23,7 +23,7 @@ class OrdersController < ApplicationController
         quantity_1 = order_params[:quantity]
 
         order = Order.create(user_id: order_params[:user_id])
-        order_items = OrderItem.create(order_id:order.id, product_id:order_params[:product_id], quantity:order_params[:quantity], item_price: product_1.price * quantity_1)
+        order_items = OrderItem.create(order_id:order.id, product_id:order_params[:product_id],user_id:current_user.id, quantity:order_params[:quantity], item_price: product_1.price * quantity_1)
         user = User.find(order_params[:user_id])
         user.update(current_order:order.id)
         order_items = order.order_items
@@ -37,7 +37,7 @@ class OrdersController < ApplicationController
         order.total_qty = total_quantity
         order.save 
 
-        render json: current_user, include:'**'
+        render json: current_user
     end
 
     private 

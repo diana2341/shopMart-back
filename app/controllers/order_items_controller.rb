@@ -36,7 +36,7 @@ class OrderItemsController < ApplicationController
     order.total_qty = total_quantity
     order.save 
 
-    render json: current_user, include: '**'
+    render json: current_user
     end
 
     def destroy 
@@ -61,6 +61,6 @@ class OrderItemsController < ApplicationController
     private
 
    def order_item_params
-    params.permit(:product_id, :order_id, :quantity, :item_price)
+    params.permit(:product_id, :order_id, :quantity, :item_price, :user_id)
    end
 end
