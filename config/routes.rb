@@ -3,7 +3,7 @@ Rails.application.routes.draw do
   resources :order_items
   resources :orders
   resources :credit_cards
-  resources :users
+  resources :users, only: [:create, :index,:show,:update]
   post '/login', to: 'auth#login'
   get 'auto_login', to: 'auth#auto_login'
   get '/user_is_authed', to: 'auth#user_is_authed'
