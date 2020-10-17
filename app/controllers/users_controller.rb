@@ -18,7 +18,12 @@ class UsersController < ApplicationController
     def update
         user=User.find(params[:id])
         user.update(user_params)
+        if user.valid?
         render json:user
+        else 
+            render json: {errors: user.errors.full_messages}, status: :not_acceptable
+        end
+
     end
 def index
 user = User.all 
