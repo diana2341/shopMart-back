@@ -40,4 +40,6 @@ class ApplicationController < ActionController::API
             render json: {message: 'Please Login'}, status: :unauthorized unless logged_in?
         end
 
+
+  
 end

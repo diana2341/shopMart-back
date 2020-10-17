@@ -4,6 +4,7 @@ class OrdersController < ApplicationController
     def index 
         orders = Order.all 
         render json: orders 
+        
     end
 
     def show 
@@ -18,24 +19,32 @@ class OrdersController < ApplicationController
     end 
 
 
-    def neworder 
+    def neworder
         product_1 = Product.find(order_params[:product_id])
         quantity_1 = order_params[:quantity]
 
-        order = Order.create(user_id: order_params[:user_id])
-        order_items = OrderItem.create(order_id:order.id, product_id:order_params[:product_id], quantity:order_params[:quantity], item_price: product_1.price * quantity_1)
+
+        order = Order.create(user_id: order_params[:user_id] )
+        order_items = OrderItem.create(order_id: order.id, product_id: order_params[:product_id], quantity: order_params[:quantity], item_price: product_1.price * quantity_1)
+
+
         user = User.find(order_params[:user_id])
-        user.update(current_order:order.id)
+        user.update(current_order: order.id )
         order_items = order.order_items
 
-        total = 0 
+
+
+        total = 0
         total_quantity = 0
-        order.order_items.each{|item| total += item.item_price}
+        order.order_items.each { |item| total += item.item_price }
         order.total_price = total
 
-        order.order_items{|item| total_quantity += item.quantity}
+        order.order_items.each { |item| total_quantity += item.quantity }
         order.total_qty = total_quantity
-        order.save 
+        order.save
+
+
+
 
         render json: current_user
     end

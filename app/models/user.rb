@@ -13,6 +13,6 @@ class User < ApplicationRecord
         # has_many :carts
         has_many :orders
 
-    has_many :products, through: :carts
-    has_many :credit_cards
+    # has_many :products, through: :orders
+    # has_many :credit_cards
 end
