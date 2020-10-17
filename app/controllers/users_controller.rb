@@ -18,9 +18,7 @@ class UsersController < ApplicationController
     def update
         user=User.find(params[:id])
         user.update(user_params)
-        ren
-        
-        der json:user
+        render json:user
     end
 def index
 user = User.all 
@@ -34,3 +32,4 @@ def user_params
 end
 
 end
+
