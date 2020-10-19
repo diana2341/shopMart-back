@@ -1,5 +1,5 @@
 class UsersController < ApplicationController
-    skip_before_action :require_login, only: [:create,:index, :show,:update, :showVisit, :followees, :followers]
+    skip_before_action :require_login, only: [:create,:index, :show,:update]
 
     def create
         user = User.create(user_params)
@@ -18,7 +18,9 @@ class UsersController < ApplicationController
     def update
         user=User.find(params[:id])
         user.update(user_params)
+        # byebug
         if user.valid?
+            user.save
         render json:user
         else 
             render json: {errors: user.errors.full_messages}, status: :not_acceptable
@@ -33,7 +35,8 @@ end
 private
 
 def user_params
-    params.permit(:email, :password, :first_name, :last_name, :street, :state, :country, :zip_code)
+    params.permit(:email, :password, :first_name, :last_name, :street, :state, :country, :zip_code, :current_order)
 end
 
 end
+
