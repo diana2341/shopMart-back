@@ -16,3 +16,6 @@ class User < ApplicationRecord
     # has_many :products, through: :orders
     # has_many :credit_cards
 end
+
+
+
