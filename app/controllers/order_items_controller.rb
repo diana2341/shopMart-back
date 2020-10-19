@@ -61,6 +61,6 @@ class OrderItemsController < ApplicationController
     private
 
    def order_item_params
-    params.permit(:product_id, :order_id, :quantity, :item_price, :user_id)
+    params.permit(:product_id, :order_id, :quantity, :item_price)
    end
 end
