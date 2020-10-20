@@ -23,13 +23,13 @@ class OrdersController < ApplicationController
         quantity_1 = order_params[:quantity]
 
         order = Order.create(user_id: order_params[:user_id])
-        order_items = OrderItem.create(order_id:order.id, product_id:order_params[:product_id], quantity:order_params[:quantity], item_price: product_1.price * quantity_1)
+        order_items = OrderItem.create(order_id:order.id, user_id:order_params[:user_id], product_id:order_params[:product_id], quantity:order_params[:quantity], item_price: product_1.price * quantity_1)
         user = User.find(order_params[:user_id])
         user.update(current_order:order.id)
         order_items = order.order_items
 
         total = 0 
-        total_quantity = 0
+        total_quantity = 1
         order.order_items.each{|item| total += item.item_price}
         order.total_price = total
 
