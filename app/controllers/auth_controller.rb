@@ -8,8 +8,9 @@ class AuthController < ApplicationController
             token = encode_token(payload)
             render json:{user:user, jwt:token, success:"Welcome back, #{user.first_name}"}
         else 
-            render json:{failure:'Log in failed! Email or password invalid!'}
+          render json: {errors: user.errors.full_messages}, status: :not_acceptable
         end
+
     end
 
    
