@@ -2100,12 +2100,214 @@ categories:'boys',
 kind:'tops'
 )
 
+Product.create(price:10,
+name:"T-shirt",
+amount:9,
+color:'black',
+size:'s',
+images:'https://img.abercrombie.com/is/image/anf/KIC_224-2011-4219-023_prod1?$product-large-anf$',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'tops'
+)
+Product.create(price:10,
+name:"T-shirt",
+amount:9,
+color:'blue',
+size:'m',
+images:'https://img.abercrombie.com/is/image/anf/KIC_224-2011-4219-001_prod1?$product-large-anf$',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'tops'
+)
+Product.create(price:10,
+name:"T-shirt",
+amount:9,
+color:'green',
+size:'l',
+images:'https://img.abercrombie.com/is/image/anf/KIC_224-2703-4289-030_prod1?$product-large-anf$',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'tops'
+)
+Product.create(price:5,
+name:"Black T-shirt",
+amount:9,
+color:'black',
+size:'l',
+images:'https://www-cdn.champion.com/catalog/product/h/n/hns_ot435ay07858_navy_flat_23.jpg?quality=85&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'tops'
+)
+Product.create(price:10,
+name:"Long Sleeve",
+amount:9,
+color:'black',
+size:'m',
+images:'https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcToRLxqoIAlMcMD21L3xb96ld94w2r5dMLfA4-ISNnDvoV_g1ceEupWGXJ8jFyIjjd9W5xtyzaNRe2FLvrhYYXYhZopYz8a0drmNXOUShomC_UKFLx-ukM9&usqp=CAE',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'tops'
+)
+Product.create(price:12,
+name:"Long Sleeve T-Shirt",
+amount:9,
+color:'black',
+size:'xs',
+images:'https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcStt_7vh1YBvg3CwAWKiNkQFoUZ9QPwYfDlvwzD0-OnkH9TbeEIJQhKjCKFwWPAehbCn0kx5mBW9KHdiRKn_h1Gi5jpo1K6bIzrN5lJwR52kdeCwKU_UdvOHw&usqp=CAE',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'tops'
+)
+Product.create(price:14,
+name:"T-shirt",
+amount:9,
+color:'blue',
+size:'xl',
+images:'https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRaun7jiOzKpRmuZT1TLtJ9iZWJCJ8Fr2fEp8NnDSefk_FfXlYzYnpW8tXvpuFfyKktVE8HpR3Mn0MNjtBdLLRX8ju22S_Dw2wE6nCxh4hXQYkIP6MPx_fG&usqp=CAY',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'tops'
+)
+
+
+Product.create(price:7,
+name:"Socks",
+amount:9,
+color:'black',
+size:'',
+images:'https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTTFHZqJLETkVjeqiNu5L6DIloB0Qnp2n8I3lx0zF_3YB959JnUhfTZQTRH1W7BMEUsTlsl9zIV9zTZXaGfAZPykqcCGr4C4qV_rTL3cjCt1Wdg9R_mvjOT&usqp=CAE',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'socks'
+)
+
+
+Product.create(price:5,
+name:"Socks",
+amount:9,
+color:'grey',
+size:'',
+images:'https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTA2JmWIKibLuHmZY0ucN6V_jcMFSkJm_W5nL9mWA_OSBsF6_B8h15hIHimxypf9iYCqXp02DT91PQBbLmp44dTdZ29Sksq1B4j_rRXzR-CX3zMLjS2cJHV0Q&usqp=CAE',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'socks'
+)
+
+
+
+Product.create(price:7,
+name:"Socks",
+amount:9,
+color:'white',
+size:'',
+images:'https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSKty7uJCjLSkD0zNEoGLQ6P5ieZiBw4QlBz77BdqQjIxlG1gxX7sdcIc0NMgYuNVfzUq1_fA3VN2VvaaDzXjZbFaiFObIw13wS48XwiZXZ_XxgFb7wE8HQ&usqp=CAE',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'socks'
+)
+
+
+
+
+
 Product.create(price:30,
 name:"Nike pro top",
 amount:9,
 color:'grey',
 size:'xs',
 images:'https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/f5c8ac56-cc11-45c7-b0aa-f1dc44425223/pro-big-kids-boys-short-sleeve-printed-training-top-mgpws0.jpg',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'sportswear'
+)
+Product.create(price:30,
+name:"Shorts",
+amount:9,
+color:'grey',
+size:'s',
+images:'https://slimages.macysassets.com/is/image/MCY/products/2/optimized/16607602_fpx.tif?op_sharpen=1&wid=500&hei=613&fit=fit,1&$filtersm$',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'sportswear'
+)
+Product.create(price:10,
+name:"Sportswear Shorts",
+amount:9,
+color:'black',
+size:'m',
+images:'https://img.shopstyle-cdn.com/sim/0c/e6/0ce6627f6001d86fec36b18ee5cd16e4_best/big-kids-boys-shorts-nike-sportswear.jpg',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'sportswear'
+)
+Product.create(price:15,
+name:"Sportswear PullOver",
+amount:9,
+color:'blue',
+size:'xl',
+images:'https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/ktlzfuuz9tijdkpkfxms/sportswear-club-big-kids-pullover-hoodie-xJspSx.jpg',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'sportswear'
+)
+Product.create(price:15,
+name:"Nike pro top",
+amount:9,
+color:'white',
+size:'m',
+images:'https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/z7xxynd95vpziutpwmhp/sportswear-club-big-kids-pullover-hoodie-xJspSx.jpg',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'sportswear'
+)
+Product.create(price:15,
+name:"Sportswear PullOver",
+amount:9,
+color:'green',
+size:'l',
+images:'https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/7d8957cf-f4f5-40ef-b5fc-a8cb5369147a/sportswear-club-big-kids-pullover-hoodie-xJspSx.jpg',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'sportswear'
+)
+Product.create(price:30,
+name:"Tracksuit",
+amount:9,
+color:'blue',
+size:'l',
+images:'https://catalog.21buttons.com/a15759892e0a69883eeacad098e89739177d0ccd.smedium.jpg',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'sportswear'
+)
+Product.create(price:30,
+name:"Tracksuit",
+amount:9,
+color:'black',
+size:'m',
+images:'https://i8.amplience.net/i/jpl/jd_152600_a?qlt=80',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'sportswear'
+)
+Product.create(price:20,
+name:"Nike Pull-Over",
+amount:9,
+color:'blue',
+size:'s',
+images:'https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/jbl5l3vmhu2htu4iarxd/sportswear-big-kids-boys-pullover-hoodie-cDqr3R.jpg',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'sportswear'
+)
+Product.create(price:20,
+name:"Nike  Pull-Over",
+amount:9,
+color:'black',
+size:'xs',
+images:'https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/uvemd1yxjy107rfz5zpu/sportswear-big-kids-boys-pullover-hoodie-cDqr3R.jpg',
 description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
 categories:'boys',
 kind:'sportswear'
@@ -2216,7 +2418,7 @@ kind:'jeans'
 
 
 
-Product.create(price:36.99,
+Product.create(price:36,
 name:"adidas RACER TR 2.0 Kids' Sneakers",
 amount:9,
 color:'grey',
@@ -2226,6 +2428,107 @@ description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin frin
 categories:'boys',
 kind:'shoes'
 )
+
+
+Product.create(price:40,
+name:"Nike Team Hustle D 9 FlyEase",
+amount:9,
+color:'black',
+size:'',
+images:'https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/i1-32891ecc-6f14-4ce4-9b70-ec9430735c82/team-hustle-d-9-flyease-little-kids-shoe-rx8rTg.jpg',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'shoes'
+)
+
+Product.create(price:34,
+name:"Nike Hustle D 9 FlyEase",
+amount:9,
+color:'grey',
+size:'',
+images:'https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/14e0a097-1e2f-4c49-940f-81cb39ff2e0a/hustle-d-9-flyease-little-kids-shoe-rx8rTg.jpg',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'shoes'
+)
+
+Product.create(price:28,
+name:"Nike Team Hustle Quick ",
+amount:9,
+color:'grey',
+size:'',
+images:'https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/12f1d794-105a-4999-b225-d66f384a2913/team-hustle-quick-2-se-little-kids-shoe-6mrCxh.jpg',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'shoes'
+)
+
+Product.create(price:28,
+name:"Nike Team Hustle Quick 2",
+amount:9,
+color:'red',
+size:'',
+images:'https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/zweyferxie1sh6fdhmnc/team-hustle-quick-2-little-kids-shoe-6mrCxh.jpg',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'shoes'
+)
+
+Product.create(price:25,
+name:"	
+Nike Team Hustle ",
+amount:9,
+color:'blue',
+size:'',
+images:'https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTdKLmEm-XVvqOnmDS4fzl69bcOoezQycWv0Ho-QCRGBYrodu9jXYYk0QF-9nJCR5sm8cd7CFsZUyLSoUtW5za6LuIPaPqN0f3fKOM0G-5k-Fa8ZV7RoeN24WE&usqp=CAE',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'shoes'
+)
+
+Product.create(price:32,
+name:"	
+Nike Court Borough ",
+amount:9,
+color:'black',
+size:'',
+images:'https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR26bHwwgKyPJMp664dB34OfBne8aCxFMh0IRP50h7r9vGn0xZw8HNwj98ahz5BsmdH4nkWgLdbqhqnM823_jNUQwfbatKEAeF6P2bNG38i5t7ZCItM7W_5MA&usqp=CAE',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'shoes'
+)
+
+Product.create(price:39,
+name:"	
+Nike Kids Flex Runner ",
+amount:9,
+color:'grey',
+size:'',
+images:'https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRE_01ICVR-niItn5T-mKzHVXqmbq5blgeAMgtFw-Lqzq1JFgeiwAthqYnvNoZg8t1UDzf2wyC7ztncRC2F-yKiyt7rgrWp7nV7xpdlYJAMFLQ4su3kLbRhP0k&usqp=CAE',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'shoes'
+)
+
+Product.create(price:30,
+name:"	
+Adidas Duramo 9 Shoes Black ",
+amount:9,
+color:'black',
+size:'',
+images:'https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTsjTPhl6iN16edlW4DQSfqvCC6YNfi22ZIq03PxXladHi2vbpApFAX3TUfqsLj2U5Y6zstAE8vPKe-XPf-Hf4gIV873t7xCf2g-mhpm2rzIZSIstvfUds0Tw&usqp=CAY',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'shoes'
+)
+
+
+
+
+
+
+
+
 
 Product.create(price:15,
 name:"Boys 8-20 Nike 6-pk. Performance Quarter Socks",
@@ -2249,6 +2552,60 @@ categories:'boys',
 kind:'toys'
 )
 
+
+Product.create(price:70,
+name:"Marvel Spider-Man Spiderbolt Blaster",
+amount:9,
+color:'',
+size:'',
+images:'https://s7d9.scene7.com/is/image/JCPenney/DP1008202007114839M?resmode=sharp2&op_sharpen=1&wid=550&hei=550',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'toys'
+)
+
+Product.create(price:50,
+name:"	
+Vtech Drill and Learn Toolbox with Working Drill and Tools",
+amount:9,
+color:'',
+size:'',
+images:'https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQS9VQyLgZin_1wXMelAd4CFDcb-RF0vjAg2r8L3dPeMDkN_kcyuwsJDaEuT3i3haAn5xRcgWBzxgxFTQDm1AQYHsDab-ZBnRvpX9Q-xY5RA9HOeRRZpbzC5lg&usqp=CAE',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'toys'
+)
+
+Product.create(price:30,
+name:"	
+New Bright 22 inch Free Wheel Mega Construction Hauler Set",
+amount:9,
+color:'',
+size:'',
+images:'https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ8VN1ifVo2RooUqLkgOcI4UZkNbe0AGHWcFMmzPEyyPfmiuR9jrpwl6eIbV4KUVPMx5-8_RvhcGp8--V2MW-AtLxEUVd_7mBVUJOz6xeCPa_ETpAO-x6XD&usqp=CAE',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'toys'
+)
+
+Product.create(price:130,
+name:" 12V Kids Ride on Truck Car w/ Parent Remote",
+amount:9,
+color:'black',
+size:'',
+images:'https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT5zDffaKomyNAyu9zCT4ocVzDgFO_nzYulwrWNtPuo7GLZRDPH5T0mfDm61ctnSegGQnqMvCWwoky8qBPtWYX31TK-tuUoTCc6LJg03w_mzlWu5QHMbruEVQ&usqp=CAE',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'toys'
+)
+
+
+
+
+
+
+
+
 product17=Product.create(price:30,
 name:"The North Face Youth Salty Dog Beanie",
 amount:9,
@@ -2259,6 +2616,50 @@ description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin frin
 categories:'boys',
 kind:'hats'
 )
+
+product17=Product.create(price:10,
+name:"Grey Beanie",
+amount:9,
+color:'grey',
+size:'',
+images:'https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/e1f95444-cbf2-4c06-9d66-72cd01416606/texas-logo-beanie-6Sd1hk.jpg',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'hats'
+)
+product17=Product.create(price:11,
+name:"Beanie",
+amount:9,
+color:'grey',
+size:'',
+images:'https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/e8231121-3ef0-45bf-8f91-bdfee125b605/sportswear-cuffed-beanie-1LsM99.jpg',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'hats'
+)
+product17=Product.create(price:12,
+name:"The North Face Youth Salty Dog Beanie",
+amount:9,
+color:'black',
+size:'',
+images:'https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/477b3e75-81f1-4eee-aac5-854de26116a3/sportswear-cuffed-pom-beanie-nvt3VF.jpg',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'hats'
+)
+product17=Product.create(price:10,
+name:"Nike SB",
+amount:9,
+color:'black',
+size:'',
+images:'https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,b_rgb:f5f5f5/eacc431d-889b-4d0c-a60f-4f54734fb652/sb-skate-fisherman-beanie-4VTn9Beb.jpg',
+description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin fringilla congue tempus. Aliquam cursus, sapien nec tempor porttitor, nibh ex consectetur velit, a porttitor magna massa id diam. Aliquam ultricies iaculis mi, nec fermentum urna ultricies quis. Ut tincidunt pharetra orci ut placerat. Duis quis lobortis orci. Duis rhoncus semper venenatis. Nulla facilisi. Suspendisse laoreet, mauris ut semper vehicula, sem nunc tempus mauris, sit amet gravida elit nisi eget nulla. Suspendisse id volutpat nisi, vitae accumsan nisi. Cras et varius est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque tortor, eleifend nec efficitur cursus, aliquam nec felis. Nulla a ipsum elementum, scelerisque massa sed, pulvinar justo. Pellentesque ornare dui quis tortor feugiat, a efficitur mi luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;',
+categories:'boys',
+kind:'hats'
+)
+
+
+
 
 c1=CreditCard.create(user:user1,card_number:'123',expiration_date:'123',cvc:"123",name:'diana')
 c2=CreditCard.create(user:user2,card_number:'123',expiration_date:'123',cvc:"123",name:'sam')
