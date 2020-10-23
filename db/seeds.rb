@@ -795,7 +795,7 @@ kind:'shoes'
 )
 # shoesss^^^^^^x5
 
-Product.create(price:6.99,
+Product.create(price:6,
 name:"Varsity-Striped Knee-High Socks",
 amount:2,
 color:'black',
@@ -1287,7 +1287,7 @@ description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin frin
 categories:'men',
 kind:'hats'
 )
-Product.create(price:10.99,
+Product.create(price:10,
 name:"Embroidered Woozy Graphic Dad Cap",
 amount:1,
 color:'blue',
@@ -1298,7 +1298,7 @@ categories:'men',
 kind:'hats'
 )
 
-Product.create(price:10.99,
+Product.create(price:10,
 name:"Men Faux Leather Braided Bracelet Set",
 amount:1,
 color:'black',
@@ -1721,7 +1721,7 @@ kind:'tops'
 
 
 # --------------------------------
-product14=Product.create(price:15.99,
+product14=Product.create(price:15,
 name:"Girls Distressed Jeans (Kids)",
 amount:9,
 color:'blue',
@@ -1732,7 +1732,7 @@ categories:'girls',
 kind:'jeans'
 )
 
-Product.create(price:10.99,
+Product.create(price:10,
 name:"Girls Noir Static Printed Jacket",
 amount:9,
 color:'black',
@@ -1743,7 +1743,7 @@ categories:'girls',
 kind:'sportswear'
 )
 
-Product.create(price:17.99,
+Product.create(price:17,
 name:"Girls Transparent Sequin Backpack (Kids)",
 amount:9,
 color:'pink',
@@ -1754,7 +1754,7 @@ categories:'girls',
 kind:'bags'
 )
 
-Product.create(price:7.99,
+Product.create(price:7,
 name:"Disney's Minnie Mouse Birthstone Stud Earrings",
 amount:9,
 color:'green',
@@ -1765,7 +1765,7 @@ categories:'girls',
 kind:'jewelry'
 )
 
-Product.create(price:2.99,
+Product.create(price:2,
 name:"Kids' Lands' End Melange Thermaskin Heat Boot Socks",
 amount:9,
 color:'grey',
@@ -1776,7 +1776,7 @@ categories:'girls',
 kind:'socks'
 )
 
-Product.create(price:12.99,
+Product.create(price:12,
 name:"Disney's Minnie Mouse Unicorn Headband",
 amount:9,
 color:'grey',
@@ -1787,7 +1787,7 @@ categories:'girls',
 kind:'hair'
 )
 
-Product.create(price:42.99,
+Product.create(price:42,
 name:"American Girl WellieWishers Ashlyn Doll",
 amount:9,
 color:'pink',
@@ -2313,7 +2313,7 @@ categories:'boys',
 kind:'sportswear'
 )
 # ---------------------------------------------------------
-Product.create(price:27.99,
+Product.create(price:27,
 name:"Boys Twill Shacket with Quilted Lining and Hood Jacket
 ",
 amount:9,
